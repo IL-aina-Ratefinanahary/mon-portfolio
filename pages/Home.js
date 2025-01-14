@@ -3,8 +3,9 @@ import React from 'react';
 function Home() {
   return (
     <div>
-      <h1>Bienvenue sur mon portfolio</h1>
-      <p>Je suis Il'aina Ratefinanahary, un étudiant de baccalauréat en génie informatique.</p>
+      <h1>Bienvenue sur mon portfolio (Doit contenir une présentation basique)</h1>
+      <p>A ajouter: résumé personnel structuré, parcours, domaines d'intéret,objectifs. Photo professionnelle</p>
+      <p>Liens dirrects vers Github,codeacademy</p> 
     </div>
   );
 }
